@@ -1,16 +1,16 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Akeed5674/Akeed5674** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <h1>Hey There! 👋</h1>
 
-Here are some ideas to get you started:
+  <img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" alt="Pixel Art Room" width="600"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <br><br>
+
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="3px"/>
+
+</div>
+
+### 🙋‍♂️ About Me
+* 🔭 I’m currently working on **open-multi-agent**
+* 🏢 I work at **Techmee-Digital**
+* 🌱 I’m currently learning...
