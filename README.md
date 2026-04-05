@@ -14,6 +14,8 @@
 * 🎓 Pursuing a degree in **Ethical Hacking and Networking**.
 * 🧠 I'm a fast learner and naturally curious about dissecting how systems operate under the hood and securing them.
 * 🔭 Currently building **open-multi-agent**, an interesting project exploring multi-agent architectures.
+* 💡 Passionate about offensive security, secure server configurations, and full-stack development.
+* 🌱 Currently leveling up my skills in penetration testing and system administration.
   
 ### 🛠️ Languages & Tools
 
