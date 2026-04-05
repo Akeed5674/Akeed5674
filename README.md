@@ -6,8 +6,6 @@
   
   <br><br>
 
-  <br><br>
-
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="3px"/>
 
 </div>
