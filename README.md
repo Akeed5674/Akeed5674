@@ -6,8 +6,6 @@
   
   <br><br>
 
-  <img src="YOUR_NEW_GIF_LINK_HERE" alt="Smaller GIF" width="300"/>
-
   <br><br>
 
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="3px"/>
